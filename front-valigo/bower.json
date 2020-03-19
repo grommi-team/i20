@@ -1,0 +1,26 @@
+{
+  "name": "valigo",
+  // "homepage": "https://github.com/creativetimofficial/material-kit-react",
+  "authors": [
+    "cristhian-laurente"
+  ],
+  "description": "Chacritas",
+  "main": "dist/index.js",
+  "keywords": [
+    "frubana",
+    "design",
+    "material-ui",
+    "google",
+    "twitter",
+    "grommi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
